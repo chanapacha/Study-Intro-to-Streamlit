@@ -1,4 +1,4 @@
-# Name of Streamlit App
+# Study Intro to Streamlit 
 
 Description of the app ...
 
